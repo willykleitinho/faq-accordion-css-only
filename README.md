@@ -42,10 +42,11 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 - Accordion CSS-only
+- CSS Animation
 
 ### What I learned
 
-In this project, I've learned how to use background images (with fallback colors) better and practiced using Flexbox. I also did my first accordion, using only labels and checkboxes :0
+In this project, I've learned how to use background images (with fallback colors) better and practiced using Flexbox and animations. I also did my first accordion, using only labels and checkboxes :0
 
 ### Useful resources
 
